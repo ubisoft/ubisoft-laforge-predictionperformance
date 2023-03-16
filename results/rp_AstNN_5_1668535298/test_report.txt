@@ -1,0 +1,19 @@
+              precision    recall  f1-score   support
+
+      slower       0.96      0.93      0.94     21297
+        same       0.96      0.97      0.97     66190
+      faster       0.96      0.93      0.94     21297
+
+    accuracy                           0.96    108784
+   macro avg       0.96      0.94      0.95    108784
+weighted avg       0.96      0.96      0.96    108784
+
+
+                 precision    recall  f1-score   support
+
+     same perf.       0.96      0.97      0.97     66190
+sign.perf.diff.       0.96      0.93      0.94     42594
+
+       accuracy                           0.96    108784
+      macro avg       0.96      0.95      0.96    108784
+   weighted avg       0.96      0.96      0.96    108784

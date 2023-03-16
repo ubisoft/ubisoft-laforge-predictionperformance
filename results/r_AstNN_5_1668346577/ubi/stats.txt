@@ -1,0 +1,3 @@
+{'n_epoch': 5, 'dryrun': False, 'c': False, 'split_method': 'r', 'pairs_name': 'cf_cpp_pairs_1.5_1.1_False', 'sampling': 'no', 'l2': 0.0, 'ubi': False, 'N': 50000, 'n_min_samples': 100, 'script': 'astnn_train', 'pairs_path': 'data/cf_cpp_pairs_1.5_1.1_False.csv', 'asts_path': 'data/cf_cpp_asts.pkl'}
+
+Training time: 0 days 01:04:14

@@ -1,0 +1,3 @@
+{'n_epoch': 20, 'dryrun': False, 'c': False, 'split_method': 'p', 'l2': 0.0, 'N': None, 'n_min_samples': 100, 'script': 'astnn_train_reg', 'times_path': 'data/cf_cpp_times.csv', 'asts_path': 'data/cf_cpp_asts.pkl', 'train_zero_R': 433.91146839927495, 'eval_zero_R': 453.21486758549736, 'train_by_problem_zero_R': 257.0915536369598}
+
+Training time: 0 days 16:55:32
