@@ -34,3 +34,5 @@ install `requirements.txt` for Python 3.8
 * To reproduce Figure 10, run: 
     * `python astnn_train.py --n_epoch=5 --N=50000 --pairs_name=cf_cpp_pairs_1.5_1.1_False --n_min_samples=100 --split_method=rp --ubi`
 * For the plots, check: `astnn_transfer.py` 
+
+© [2022] Ubisoft Entertainment. All Rights Reserved
