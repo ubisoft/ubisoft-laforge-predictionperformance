@@ -3,6 +3,8 @@ The paper will appear in the proceedings of ICPC'23, RENE track.
 
 All the results are available in `results/`.
 
+All data are in the 'data/'. Those are compressed with 7z. Please unzip before usage.
+
 The replication instructions are the following:
 
 install `requirements.txt` for Python 3.8
